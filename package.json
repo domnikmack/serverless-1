@@ -10,7 +10,7 @@
     "uuid": "3.3.2"
   },
   "devDependencies": {
-    "@babel/core": "7.0.0-beta.56",
+    "@babel/core": "7.20.12",
     "@babel/plugin-proposal-class-properties": "7.0.0-rc.1",
     "@babel/preset-env": "7.0.0-beta.56",
     "@babel/preset-react": "7.0.0-beta.56",
@@ -29,7 +29,7 @@
     "eslint-plugin-standard": "3.1.0",
     "history": "4.7.2",
     "html-loader": "0.5.5",
-    "loader-utils": "1.1.0",
+    "loader-utils": "1.4.2",
     "mini-css-extract-plugin": "0.4.1",
     "prop-types": "15.6.2",
     "react": "16.4.2",
@@ -45,7 +45,7 @@
     "serverless-apigwy-binary": "0.1.0",
     "serverless-cloudfront-invalidate": "1.2.1",
     "serverless-finch": "2.2.0",
-    "serverless-offline": "3.25.7",
+    "serverless-offline": "3.33.0",
     "serverless-stack-output": "0.2.3",
     "standard": "11.0.1",
     "string-replace-loader": "2.1.1",
